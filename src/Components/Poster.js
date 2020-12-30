@@ -39,7 +39,7 @@ class Poster extends Component {
 
 		return (
 			<div>
-				<h1>Halliche</h1>
+				<h1>Our Posts : </h1>
 				{items}
 			</div>
 		);
